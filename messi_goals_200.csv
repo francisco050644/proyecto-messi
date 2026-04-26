@@ -1,0 +1,201 @@
+Season,Competition,Matchday,Venue,Date,Team,Opponent,Result,Position,Minute,At_score,Type,Assisted By
+2004/2005,La Liga,1,Home,2005-01-01,Barcelona,Team1,1-0,RW,1,1-0,Left-footed shot,PlayerA
+2005/2006,UCL,2,Away,2005-01-02,Barcelona,Team2,2-1,CF,8,2-1,Right-footed shot,PlayerB
+2006/2007,La Liga,3,Home,2005-01-03,Barcelona,Team3,3-0,RW,15,3-0,Header,PlayerC
+2007/2008,UCL,4,Away,2005-01-04,Barcelona,Team4,4-1,CF,22,4-1,Left-footed shot,PlayerD
+2008/2009,La Liga,5,Home,2005-01-05,Barcelona,Team5,5-0,RW,29,5-0,Right-footed shot,PlayerE
+2009/2010,UCL,6,Away,2005-01-06,Barcelona,Team6,1-1,CF,36,1-1,Header,PlayerF
+2010/2011,La Liga,7,Home,2005-01-07,Barcelona,Team7,2-0,RW,43,2-0,Left-footed shot,PlayerG
+2011/2012,UCL,8,Away,2005-01-08,Barcelona,Team8,3-1,CF,50,3-1,Right-footed shot,PlayerH
+2012/2013,La Liga,9,Home,2005-01-09,Barcelona,Team9,4-0,RW,57,4-0,Header,PlayerI
+2013/2014,UCL,10,Away,2005-01-10,Barcelona,Team10,5-1,CF,64,5-1,Left-footed shot,PlayerJ
+2014/2015,La Liga,11,Home,2005-01-11,Barcelona,Team11,1-0,RW,71,1-0,Right-footed shot,PlayerK
+2015/2016,UCL,12,Away,2005-01-12,Barcelona,Team12,2-1,CF,78,2-1,Header,PlayerL
+2016/2017,La Liga,13,Home,2005-01-13,Barcelona,Team13,3-0,RW,85,3-0,Left-footed shot,PlayerM
+2017/2018,UCL,14,Away,2005-01-14,Barcelona,Team14,4-1,CF,2,4-1,Right-footed shot,PlayerN
+2018/2019,La Liga,15,Home,2005-01-15,Barcelona,Team15,5-0,RW,9,5-0,Header,PlayerO
+2019/2020,UCL,16,Away,2005-01-16,Barcelona,Team16,1-1,CF,16,1-1,Left-footed shot,PlayerP
+2020/2021,La Liga,17,Home,2005-01-17,Barcelona,Team17,2-0,RW,23,2-0,Right-footed shot,PlayerQ
+2021/2022,UCL,18,Away,2005-01-18,Barcelona,Team18,3-1,CF,30,3-1,Header,PlayerR
+2022/2023,La Liga,19,Home,2005-01-19,Barcelona,Team19,4-0,RW,37,4-0,Left-footed shot,PlayerS
+2023/2024,UCL,20,Away,2005-01-20,Barcelona,Team20,5-1,CF,44,5-1,Right-footed shot,PlayerT
+2004/2005,La Liga,21,Home,2005-01-21,Barcelona,Team21,1-0,RW,51,1-0,Header,PlayerA
+2005/2006,UCL,22,Away,2005-01-22,Barcelona,Team22,2-1,CF,58,2-1,Left-footed shot,PlayerB
+2006/2007,La Liga,23,Home,2005-01-23,Barcelona,Team23,3-0,RW,65,3-0,Right-footed shot,PlayerC
+2007/2008,UCL,24,Away,2005-01-24,Barcelona,Team24,4-1,CF,72,4-1,Header,PlayerD
+2008/2009,La Liga,25,Home,2005-01-25,Barcelona,Team25,5-0,RW,79,5-0,Left-footed shot,PlayerE
+2009/2010,UCL,26,Away,2005-01-26,Barcelona,Team26,1-1,CF,86,1-1,Right-footed shot,PlayerF
+2010/2011,La Liga,27,Home,2005-01-27,Barcelona,Team27,2-0,RW,3,2-0,Header,PlayerG
+2011/2012,UCL,28,Away,2005-01-28,Barcelona,Team28,3-1,CF,10,3-1,Left-footed shot,PlayerH
+2012/2013,La Liga,29,Home,2005-01-29,Barcelona,Team29,4-0,RW,17,4-0,Right-footed shot,PlayerI
+2013/2014,UCL,30,Away,2005-01-30,Barcelona,Team30,5-1,CF,24,5-1,Header,PlayerJ
+2014/2015,La Liga,31,Home,2005-01-31,Barcelona,Team31,1-0,RW,31,1-0,Left-footed shot,PlayerK
+2015/2016,UCL,32,Away,2005-02-01,Barcelona,Team32,2-1,CF,38,2-1,Right-footed shot,PlayerL
+2016/2017,La Liga,33,Home,2005-02-02,Barcelona,Team33,3-0,RW,45,3-0,Header,PlayerM
+2017/2018,UCL,34,Away,2005-02-03,Barcelona,Team34,4-1,CF,52,4-1,Left-footed shot,PlayerN
+2018/2019,La Liga,35,Home,2005-02-04,Barcelona,Team35,5-0,RW,59,5-0,Right-footed shot,PlayerO
+2019/2020,UCL,36,Away,2005-02-05,Barcelona,Team36,1-1,CF,66,1-1,Header,PlayerP
+2020/2021,La Liga,37,Home,2005-02-06,Barcelona,Team37,2-0,RW,73,2-0,Left-footed shot,PlayerQ
+2021/2022,UCL,38,Away,2005-02-07,Barcelona,Team38,3-1,CF,80,3-1,Right-footed shot,PlayerR
+2022/2023,La Liga,39,Home,2005-02-08,Barcelona,Team39,4-0,RW,87,4-0,Header,PlayerS
+2023/2024,UCL,40,Away,2005-02-09,Barcelona,Team40,5-1,CF,4,5-1,Left-footed shot,PlayerT
+2004/2005,La Liga,41,Home,2005-02-10,Barcelona,Team41,1-0,RW,11,1-0,Right-footed shot,PlayerA
+2005/2006,UCL,42,Away,2005-02-11,Barcelona,Team42,2-1,CF,18,2-1,Header,PlayerB
+2006/2007,La Liga,43,Home,2005-02-12,Barcelona,Team43,3-0,RW,25,3-0,Left-footed shot,PlayerC
+2007/2008,UCL,44,Away,2005-02-13,Barcelona,Team44,4-1,CF,32,4-1,Right-footed shot,PlayerD
+2008/2009,La Liga,45,Home,2005-02-14,Barcelona,Team45,5-0,RW,39,5-0,Header,PlayerE
+2009/2010,UCL,46,Away,2005-02-15,Barcelona,Team46,1-1,CF,46,1-1,Left-footed shot,PlayerF
+2010/2011,La Liga,47,Home,2005-02-16,Barcelona,Team47,2-0,RW,53,2-0,Right-footed shot,PlayerG
+2011/2012,UCL,48,Away,2005-02-17,Barcelona,Team48,3-1,CF,60,3-1,Header,PlayerH
+2012/2013,La Liga,49,Home,2005-02-18,Barcelona,Team49,4-0,RW,67,4-0,Left-footed shot,PlayerI
+2013/2014,UCL,50,Away,2005-02-19,Barcelona,Team50,5-1,CF,74,5-1,Right-footed shot,PlayerJ
+2014/2015,La Liga,51,Home,2005-02-20,Barcelona,Team51,1-0,RW,81,1-0,Header,PlayerK
+2015/2016,UCL,52,Away,2005-02-21,Barcelona,Team52,2-1,CF,88,2-1,Left-footed shot,PlayerL
+2016/2017,La Liga,53,Home,2005-02-22,Barcelona,Team53,3-0,RW,5,3-0,Right-footed shot,PlayerM
+2017/2018,UCL,54,Away,2005-02-23,Barcelona,Team54,4-1,CF,12,4-1,Header,PlayerN
+2018/2019,La Liga,55,Home,2005-02-24,Barcelona,Team55,5-0,RW,19,5-0,Left-footed shot,PlayerO
+2019/2020,UCL,56,Away,2005-02-25,Barcelona,Team56,1-1,CF,26,1-1,Right-footed shot,PlayerP
+2020/2021,La Liga,57,Home,2005-02-26,Barcelona,Team57,2-0,RW,33,2-0,Header,PlayerQ
+2021/2022,UCL,58,Away,2005-02-27,Barcelona,Team58,3-1,CF,40,3-1,Left-footed shot,PlayerR
+2022/2023,La Liga,59,Home,2005-02-28,Barcelona,Team59,4-0,RW,47,4-0,Right-footed shot,PlayerS
+2023/2024,UCL,60,Away,2005-03-01,Barcelona,Team60,5-1,CF,54,5-1,Header,PlayerT
+2004/2005,La Liga,61,Home,2005-03-02,Barcelona,Team61,1-0,RW,61,1-0,Left-footed shot,PlayerA
+2005/2006,UCL,62,Away,2005-03-03,Barcelona,Team62,2-1,CF,68,2-1,Right-footed shot,PlayerB
+2006/2007,La Liga,63,Home,2005-03-04,Barcelona,Team63,3-0,RW,75,3-0,Header,PlayerC
+2007/2008,UCL,64,Away,2005-03-05,Barcelona,Team64,4-1,CF,82,4-1,Left-footed shot,PlayerD
+2008/2009,La Liga,65,Home,2005-03-06,Barcelona,Team65,5-0,RW,89,5-0,Right-footed shot,PlayerE
+2009/2010,UCL,66,Away,2005-03-07,Barcelona,Team66,1-1,CF,6,1-1,Header,PlayerF
+2010/2011,La Liga,67,Home,2005-03-08,Barcelona,Team67,2-0,RW,13,2-0,Left-footed shot,PlayerG
+2011/2012,UCL,68,Away,2005-03-09,Barcelona,Team68,3-1,CF,20,3-1,Right-footed shot,PlayerH
+2012/2013,La Liga,69,Home,2005-03-10,Barcelona,Team69,4-0,RW,27,4-0,Header,PlayerI
+2013/2014,UCL,70,Away,2005-03-11,Barcelona,Team70,5-1,CF,34,5-1,Left-footed shot,PlayerJ
+2014/2015,La Liga,71,Home,2005-03-12,Barcelona,Team71,1-0,RW,41,1-0,Right-footed shot,PlayerK
+2015/2016,UCL,72,Away,2005-03-13,Barcelona,Team72,2-1,CF,48,2-1,Header,PlayerL
+2016/2017,La Liga,73,Home,2005-03-14,Barcelona,Team73,3-0,RW,55,3-0,Left-footed shot,PlayerM
+2017/2018,UCL,74,Away,2005-03-15,Barcelona,Team74,4-1,CF,62,4-1,Right-footed shot,PlayerN
+2018/2019,La Liga,75,Home,2005-03-16,Barcelona,Team75,5-0,RW,69,5-0,Header,PlayerO
+2019/2020,UCL,76,Away,2005-03-17,Barcelona,Team76,1-1,CF,76,1-1,Left-footed shot,PlayerP
+2020/2021,La Liga,77,Home,2005-03-18,Barcelona,Team77,2-0,RW,83,2-0,Right-footed shot,PlayerQ
+2021/2022,UCL,78,Away,2005-03-19,Barcelona,Team78,3-1,CF,90,3-1,Header,PlayerR
+2022/2023,La Liga,79,Home,2005-03-20,Barcelona,Team79,4-0,RW,7,4-0,Left-footed shot,PlayerS
+2023/2024,UCL,80,Away,2005-03-21,Barcelona,Team80,5-1,CF,14,5-1,Right-footed shot,PlayerT
+2004/2005,La Liga,81,Home,2005-03-22,Barcelona,Team81,1-0,RW,21,1-0,Header,PlayerA
+2005/2006,UCL,82,Away,2005-03-23,Barcelona,Team82,2-1,CF,28,2-1,Left-footed shot,PlayerB
+2006/2007,La Liga,83,Home,2005-03-24,Barcelona,Team83,3-0,RW,35,3-0,Right-footed shot,PlayerC
+2007/2008,UCL,84,Away,2005-03-25,Barcelona,Team84,4-1,CF,42,4-1,Header,PlayerD
+2008/2009,La Liga,85,Home,2005-03-26,Barcelona,Team85,5-0,RW,49,5-0,Left-footed shot,PlayerE
+2009/2010,UCL,86,Away,2005-03-27,Barcelona,Team86,1-1,CF,56,1-1,Right-footed shot,PlayerF
+2010/2011,La Liga,87,Home,2005-03-28,Barcelona,Team87,2-0,RW,63,2-0,Header,PlayerG
+2011/2012,UCL,88,Away,2005-03-29,Barcelona,Team88,3-1,CF,70,3-1,Left-footed shot,PlayerH
+2012/2013,La Liga,89,Home,2005-03-30,Barcelona,Team89,4-0,RW,77,4-0,Right-footed shot,PlayerI
+2013/2014,UCL,90,Away,2005-03-31,Barcelona,Team90,5-1,CF,84,5-1,Header,PlayerJ
+2014/2015,La Liga,91,Home,2005-04-01,Barcelona,Team91,1-0,RW,1,1-0,Left-footed shot,PlayerK
+2015/2016,UCL,92,Away,2005-04-02,Barcelona,Team92,2-1,CF,8,2-1,Right-footed shot,PlayerL
+2016/2017,La Liga,93,Home,2005-04-03,Barcelona,Team93,3-0,RW,15,3-0,Header,PlayerM
+2017/2018,UCL,94,Away,2005-04-04,Barcelona,Team94,4-1,CF,22,4-1,Left-footed shot,PlayerN
+2018/2019,La Liga,95,Home,2005-04-05,Barcelona,Team95,5-0,RW,29,5-0,Right-footed shot,PlayerO
+2019/2020,UCL,96,Away,2005-04-06,Barcelona,Team96,1-1,CF,36,1-1,Header,PlayerP
+2020/2021,La Liga,97,Home,2005-04-07,Barcelona,Team97,2-0,RW,43,2-0,Left-footed shot,PlayerQ
+2021/2022,UCL,98,Away,2005-04-08,Barcelona,Team98,3-1,CF,50,3-1,Right-footed shot,PlayerR
+2022/2023,La Liga,99,Home,2005-04-09,Barcelona,Team99,4-0,RW,57,4-0,Header,PlayerS
+2023/2024,UCL,100,Away,2005-04-10,Barcelona,Team100,5-1,CF,64,5-1,Left-footed shot,PlayerT
+2004/2005,La Liga,101,Home,2005-04-11,Barcelona,Team101,1-0,RW,71,1-0,Right-footed shot,PlayerA
+2005/2006,UCL,102,Away,2005-04-12,Barcelona,Team102,2-1,CF,78,2-1,Header,PlayerB
+2006/2007,La Liga,103,Home,2005-04-13,Barcelona,Team103,3-0,RW,85,3-0,Left-footed shot,PlayerC
+2007/2008,UCL,104,Away,2005-04-14,Barcelona,Team104,4-1,CF,2,4-1,Right-footed shot,PlayerD
+2008/2009,La Liga,105,Home,2005-04-15,Barcelona,Team105,5-0,RW,9,5-0,Header,PlayerE
+2009/2010,UCL,106,Away,2005-04-16,Barcelona,Team106,1-1,CF,16,1-1,Left-footed shot,PlayerF
+2010/2011,La Liga,107,Home,2005-04-17,Barcelona,Team107,2-0,RW,23,2-0,Right-footed shot,PlayerG
+2011/2012,UCL,108,Away,2005-04-18,Barcelona,Team108,3-1,CF,30,3-1,Header,PlayerH
+2012/2013,La Liga,109,Home,2005-04-19,Barcelona,Team109,4-0,RW,37,4-0,Left-footed shot,PlayerI
+2013/2014,UCL,110,Away,2005-04-20,Barcelona,Team110,5-1,CF,44,5-1,Right-footed shot,PlayerJ
+2014/2015,La Liga,111,Home,2005-04-21,Barcelona,Team111,1-0,RW,51,1-0,Header,PlayerK
+2015/2016,UCL,112,Away,2005-04-22,Barcelona,Team112,2-1,CF,58,2-1,Left-footed shot,PlayerL
+2016/2017,La Liga,113,Home,2005-04-23,Barcelona,Team113,3-0,RW,65,3-0,Right-footed shot,PlayerM
+2017/2018,UCL,114,Away,2005-04-24,Barcelona,Team114,4-1,CF,72,4-1,Header,PlayerN
+2018/2019,La Liga,115,Home,2005-04-25,Barcelona,Team115,5-0,RW,79,5-0,Left-footed shot,PlayerO
+2019/2020,UCL,116,Away,2005-04-26,Barcelona,Team116,1-1,CF,86,1-1,Right-footed shot,PlayerP
+2020/2021,La Liga,117,Home,2005-04-27,Barcelona,Team117,2-0,RW,3,2-0,Header,PlayerQ
+2021/2022,UCL,118,Away,2005-04-28,Barcelona,Team118,3-1,CF,10,3-1,Left-footed shot,PlayerR
+2022/2023,La Liga,119,Home,2005-04-29,Barcelona,Team119,4-0,RW,17,4-0,Right-footed shot,PlayerS
+2023/2024,UCL,120,Away,2005-04-30,Barcelona,Team120,5-1,CF,24,5-1,Header,PlayerT
+2004/2005,La Liga,121,Home,2005-05-01,Barcelona,Team121,1-0,RW,31,1-0,Left-footed shot,PlayerA
+2005/2006,UCL,122,Away,2005-05-02,Barcelona,Team122,2-1,CF,38,2-1,Right-footed shot,PlayerB
+2006/2007,La Liga,123,Home,2005-05-03,Barcelona,Team123,3-0,RW,45,3-0,Header,PlayerC
+2007/2008,UCL,124,Away,2005-05-04,Barcelona,Team124,4-1,CF,52,4-1,Left-footed shot,PlayerD
+2008/2009,La Liga,125,Home,2005-05-05,Barcelona,Team125,5-0,RW,59,5-0,Right-footed shot,PlayerE
+2009/2010,UCL,126,Away,2005-05-06,Barcelona,Team126,1-1,CF,66,1-1,Header,PlayerF
+2010/2011,La Liga,127,Home,2005-05-07,Barcelona,Team127,2-0,RW,73,2-0,Left-footed shot,PlayerG
+2011/2012,UCL,128,Away,2005-05-08,Barcelona,Team128,3-1,CF,80,3-1,Right-footed shot,PlayerH
+2012/2013,La Liga,129,Home,2005-05-09,Barcelona,Team129,4-0,RW,87,4-0,Header,PlayerI
+2013/2014,UCL,130,Away,2005-05-10,Barcelona,Team130,5-1,CF,4,5-1,Left-footed shot,PlayerJ
+2014/2015,La Liga,131,Home,2005-05-11,Barcelona,Team131,1-0,RW,11,1-0,Right-footed shot,PlayerK
+2015/2016,UCL,132,Away,2005-05-12,Barcelona,Team132,2-1,CF,18,2-1,Header,PlayerL
+2016/2017,La Liga,133,Home,2005-05-13,Barcelona,Team133,3-0,RW,25,3-0,Left-footed shot,PlayerM
+2017/2018,UCL,134,Away,2005-05-14,Barcelona,Team134,4-1,CF,32,4-1,Right-footed shot,PlayerN
+2018/2019,La Liga,135,Home,2005-05-15,Barcelona,Team135,5-0,RW,39,5-0,Header,PlayerO
+2019/2020,UCL,136,Away,2005-05-16,Barcelona,Team136,1-1,CF,46,1-1,Left-footed shot,PlayerP
+2020/2021,La Liga,137,Home,2005-05-17,Barcelona,Team137,2-0,RW,53,2-0,Right-footed shot,PlayerQ
+2021/2022,UCL,138,Away,2005-05-18,Barcelona,Team138,3-1,CF,60,3-1,Header,PlayerR
+2022/2023,La Liga,139,Home,2005-05-19,Barcelona,Team139,4-0,RW,67,4-0,Left-footed shot,PlayerS
+2023/2024,UCL,140,Away,2005-05-20,Barcelona,Team140,5-1,CF,74,5-1,Right-footed shot,PlayerT
+2004/2005,La Liga,141,Home,2005-05-21,Barcelona,Team141,1-0,RW,81,1-0,Header,PlayerA
+2005/2006,UCL,142,Away,2005-05-22,Barcelona,Team142,2-1,CF,88,2-1,Left-footed shot,PlayerB
+2006/2007,La Liga,143,Home,2005-05-23,Barcelona,Team143,3-0,RW,5,3-0,Right-footed shot,PlayerC
+2007/2008,UCL,144,Away,2005-05-24,Barcelona,Team144,4-1,CF,12,4-1,Header,PlayerD
+2008/2009,La Liga,145,Home,2005-05-25,Barcelona,Team145,5-0,RW,19,5-0,Left-footed shot,PlayerE
+2009/2010,UCL,146,Away,2005-05-26,Barcelona,Team146,1-1,CF,26,1-1,Right-footed shot,PlayerF
+2010/2011,La Liga,147,Home,2005-05-27,Barcelona,Team147,2-0,RW,33,2-0,Header,PlayerG
+2011/2012,UCL,148,Away,2005-05-28,Barcelona,Team148,3-1,CF,40,3-1,Left-footed shot,PlayerH
+2012/2013,La Liga,149,Home,2005-05-29,Barcelona,Team149,4-0,RW,47,4-0,Right-footed shot,PlayerI
+2013/2014,UCL,150,Away,2005-05-30,Barcelona,Team150,5-1,CF,54,5-1,Header,PlayerJ
+2014/2015,La Liga,151,Home,2005-05-31,Barcelona,Team151,1-0,RW,61,1-0,Left-footed shot,PlayerK
+2015/2016,UCL,152,Away,2005-06-01,Barcelona,Team152,2-1,CF,68,2-1,Right-footed shot,PlayerL
+2016/2017,La Liga,153,Home,2005-06-02,Barcelona,Team153,3-0,RW,75,3-0,Header,PlayerM
+2017/2018,UCL,154,Away,2005-06-03,Barcelona,Team154,4-1,CF,82,4-1,Left-footed shot,PlayerN
+2018/2019,La Liga,155,Home,2005-06-04,Barcelona,Team155,5-0,RW,89,5-0,Right-footed shot,PlayerO
+2019/2020,UCL,156,Away,2005-06-05,Barcelona,Team156,1-1,CF,6,1-1,Header,PlayerP
+2020/2021,La Liga,157,Home,2005-06-06,Barcelona,Team157,2-0,RW,13,2-0,Left-footed shot,PlayerQ
+2021/2022,UCL,158,Away,2005-06-07,Barcelona,Team158,3-1,CF,20,3-1,Right-footed shot,PlayerR
+2022/2023,La Liga,159,Home,2005-06-08,Barcelona,Team159,4-0,RW,27,4-0,Header,PlayerS
+2023/2024,UCL,160,Away,2005-06-09,Barcelona,Team160,5-1,CF,34,5-1,Left-footed shot,PlayerT
+2004/2005,La Liga,161,Home,2005-06-10,Barcelona,Team161,1-0,RW,41,1-0,Right-footed shot,PlayerA
+2005/2006,UCL,162,Away,2005-06-11,Barcelona,Team162,2-1,CF,48,2-1,Header,PlayerB
+2006/2007,La Liga,163,Home,2005-06-12,Barcelona,Team163,3-0,RW,55,3-0,Left-footed shot,PlayerC
+2007/2008,UCL,164,Away,2005-06-13,Barcelona,Team164,4-1,CF,62,4-1,Right-footed shot,PlayerD
+2008/2009,La Liga,165,Home,2005-06-14,Barcelona,Team165,5-0,RW,69,5-0,Header,PlayerE
+2009/2010,UCL,166,Away,2005-06-15,Barcelona,Team166,1-1,CF,76,1-1,Left-footed shot,PlayerF
+2010/2011,La Liga,167,Home,2005-06-16,Barcelona,Team167,2-0,RW,83,2-0,Right-footed shot,PlayerG
+2011/2012,UCL,168,Away,2005-06-17,Barcelona,Team168,3-1,CF,90,3-1,Header,PlayerH
+2012/2013,La Liga,169,Home,2005-06-18,Barcelona,Team169,4-0,RW,7,4-0,Left-footed shot,PlayerI
+2013/2014,UCL,170,Away,2005-06-19,Barcelona,Team170,5-1,CF,14,5-1,Right-footed shot,PlayerJ
+2014/2015,La Liga,171,Home,2005-06-20,Barcelona,Team171,1-0,RW,21,1-0,Header,PlayerK
+2015/2016,UCL,172,Away,2005-06-21,Barcelona,Team172,2-1,CF,28,2-1,Left-footed shot,PlayerL
+2016/2017,La Liga,173,Home,2005-06-22,Barcelona,Team173,3-0,RW,35,3-0,Right-footed shot,PlayerM
+2017/2018,UCL,174,Away,2005-06-23,Barcelona,Team174,4-1,CF,42,4-1,Header,PlayerN
+2018/2019,La Liga,175,Home,2005-06-24,Barcelona,Team175,5-0,RW,49,5-0,Left-footed shot,PlayerO
+2019/2020,UCL,176,Away,2005-06-25,Barcelona,Team176,1-1,CF,56,1-1,Right-footed shot,PlayerP
+2020/2021,La Liga,177,Home,2005-06-26,Barcelona,Team177,2-0,RW,63,2-0,Header,PlayerQ
+2021/2022,UCL,178,Away,2005-06-27,Barcelona,Team178,3-1,CF,70,3-1,Left-footed shot,PlayerR
+2022/2023,La Liga,179,Home,2005-06-28,Barcelona,Team179,4-0,RW,77,4-0,Right-footed shot,PlayerS
+2023/2024,UCL,180,Away,2005-06-29,Barcelona,Team180,5-1,CF,84,5-1,Header,PlayerT
+2004/2005,La Liga,181,Home,2005-06-30,Barcelona,Team181,1-0,RW,1,1-0,Left-footed shot,PlayerA
+2005/2006,UCL,182,Away,2005-07-01,Barcelona,Team182,2-1,CF,8,2-1,Right-footed shot,PlayerB
+2006/2007,La Liga,183,Home,2005-07-02,Barcelona,Team183,3-0,RW,15,3-0,Header,PlayerC
+2007/2008,UCL,184,Away,2005-07-03,Barcelona,Team184,4-1,CF,22,4-1,Left-footed shot,PlayerD
+2008/2009,La Liga,185,Home,2005-07-04,Barcelona,Team185,5-0,RW,29,5-0,Right-footed shot,PlayerE
+2009/2010,UCL,186,Away,2005-07-05,Barcelona,Team186,1-1,CF,36,1-1,Header,PlayerF
+2010/2011,La Liga,187,Home,2005-07-06,Barcelona,Team187,2-0,RW,43,2-0,Left-footed shot,PlayerG
+2011/2012,UCL,188,Away,2005-07-07,Barcelona,Team188,3-1,CF,50,3-1,Right-footed shot,PlayerH
+2012/2013,La Liga,189,Home,2005-07-08,Barcelona,Team189,4-0,RW,57,4-0,Header,PlayerI
+2013/2014,UCL,190,Away,2005-07-09,Barcelona,Team190,5-1,CF,64,5-1,Left-footed shot,PlayerJ
+2014/2015,La Liga,191,Home,2005-07-10,Barcelona,Team191,1-0,RW,71,1-0,Right-footed shot,PlayerK
+2015/2016,UCL,192,Away,2005-07-11,Barcelona,Team192,2-1,CF,78,2-1,Header,PlayerL
+2016/2017,La Liga,193,Home,2005-07-12,Barcelona,Team193,3-0,RW,85,3-0,Left-footed shot,PlayerM
+2017/2018,UCL,194,Away,2005-07-13,Barcelona,Team194,4-1,CF,2,4-1,Right-footed shot,PlayerN
+2018/2019,La Liga,195,Home,2005-07-14,Barcelona,Team195,5-0,RW,9,5-0,Header,PlayerO
+2019/2020,UCL,196,Away,2005-07-15,Barcelona,Team196,1-1,CF,16,1-1,Left-footed shot,PlayerP
+2020/2021,La Liga,197,Home,2005-07-16,Barcelona,Team197,2-0,RW,23,2-0,Right-footed shot,PlayerQ
+2021/2022,UCL,198,Away,2005-07-17,Barcelona,Team198,3-1,CF,30,3-1,Header,PlayerR
+2022/2023,La Liga,199,Home,2005-07-18,Barcelona,Team199,4-0,RW,37,4-0,Left-footed shot,PlayerS
+2023/2024,UCL,200,Away,2005-07-19,Barcelona,Team200,5-1,CF,44,5-1,Right-footed shot,PlayerT
